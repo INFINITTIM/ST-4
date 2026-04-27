@@ -139,7 +139,6 @@ public class UnitTest1
         }
         catch (InvalidOperationException)
         {
-            // Успех - исключение выброшено
         }
     }
 
@@ -155,7 +154,6 @@ public class UnitTest1
         }
         catch (InvalidOperationException)
         {
-            // Успех
         }
     }
 
@@ -173,7 +171,6 @@ public class UnitTest1
         }
         catch (InvalidOperationException)
         {
-            // Успех
         }
     }
 
@@ -193,7 +190,6 @@ public class UnitTest1
         }
         catch (InvalidOperationException)
         {
-            // Успех
         }
     }
 
@@ -210,7 +206,6 @@ public class UnitTest1
         }
         catch (InvalidOperationException)
         {
-            // Успех
         }
     }
 
